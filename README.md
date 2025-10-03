@@ -45,3 +45,29 @@
 
 - Automatically distributes traffic across multiple resources
 - Provide single point of contact in your Auto Scalling group
+
+# How to disploy using EC2
+
+- Setup server
+  ECS > Instances > Pick a region > Launch instances > Pick OS >
+
+- Setup network
+  Network >
+
+## Amazon Simple Notification Service
+
+- Messages are published to topics
+- Subscribe immediately receive message their topic
+
+## Amazon Simpe Queue Services
+
+- Send, store and receive messages between software components
+- QUeue messages without requiring other services to be available.
+
+## Serverless Computing
+
+## AWS LAmbda
+
+- Run code without provisioning or managing server
+- Pay only for compute time wihle code is running
+- Use the AWS services tto automatically trigger code.
