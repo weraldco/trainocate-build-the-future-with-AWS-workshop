@@ -1,5 +1,7 @@
 # TRAINOCATE X AWS WORKSHOP
 
+# SESSION 1: EC2 ESSENTIAL
+
 ## Amazon EC2 instance type
 
 1. General purposes -
@@ -46,7 +48,7 @@
 - Automatically distributes traffic across multiple resources
 - Provide single point of contact in your Auto Scalling group
 
-# How to disploy using EC2
+## How to deploy using EC2
 
 - Setup server
   ECS > Instances > Pick a region > Launch instances > Pick OS >
@@ -71,3 +73,7 @@
 - Run code without provisioning or managing server
 - Pay only for compute time wihle code is running
 - Use the AWS services tto automatically trigger code.
+
+For complex system, we dont do all in console. Usually we setup in code. Take the process and put it in cloud.
+
+# SESSION 2: APPLIED GENAI
